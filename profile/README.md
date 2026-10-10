@@ -1,4 +1,5 @@
-![DB-GitHub](https://github.com/kaimeiai/.github/kaimei-banner.png)
+<img width="2256" height="382" alt="kaimei-banner" src="https://github.com/user-attachments/assets/064213f2-0ff8-4549-a48e-39dd9d1754fb" />
+
 ## About Us
 The name Kaimei comes from the Japanese term “解明” which means to clarify, elucidate, or to solve/reveal something (i.e. a blackbox) through investigation. The name captures the very essence of what Kaimei AI intends to be: a platform/service that allows the unraveling and elucidation of large complex black-box AI models that, after training, are just a large array of numbers with no visibility, interpretability, or understanding into what the AI has learned, how it has learned it, its inherent strengths and weaknesses, vulnerabilities, etc. 
 
