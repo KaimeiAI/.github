@@ -10,8 +10,8 @@ The purpose of Kaimei is to build a generalizable and scalable platform/API/serv
 ## Resources
 - [Documentation](https://docs.kaimei.ai): review our documentation for using our API and platform 
 
-# Contributing
+## Contributing
 Issues and pull requests are welcome; please include a detailed description of each request. For questions, reach us at opensource@kaimei.ai.
 
-# Contact
+## Contact
 Contact us with any general questions or inquiries at info@kaimei.ai.
